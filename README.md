@@ -29,3 +29,6 @@ This project builds an **AI-based Crop Recommendation System** using Python and 
 2. Create venv & install requirements  
    ```bash
    pip install -r requirements.txt
+3. Run the application:
+```bash
+   streamlit run app/app.py
